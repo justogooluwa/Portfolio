@@ -1,5 +1,6 @@
-import Logo from "../assets/sg-CMeCkJXn.webp";
+
 import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -41,12 +42,12 @@ function Footer() {
         </div>
       </div>
 
-      <div className="flex items-end md:flex-row md:items-center md:justify-end gap-6 mb-8">
-        <a href="/" className="translate-y-0 text-black/60 hover:text-black transition-colors">Home</a>
-        <a href="/about" className="translate-y-0 text-black/60 hover:text-black transition-colors">About</a>
-        <a href="/projects" className="translate-y-0 text-black/60 hover:text-black transition-colors">Projects</a>
-        <a href="/contact" className="translate-y-0 text-black/60 hover:text-black transition-colors">Contact</a>
-      </div>
+     <div className="flex items-end md:flex-row md:items-center md:justify-end gap-6 mb-8">
+  <Link to="/" className="text-black/60 hover:text-black transition-colors">Home</Link>
+  <Link to="/about" className="text-black/60 hover:text-black transition-colors">About</Link>
+  <Link to="/projects" className="text-black/60 hover:text-black transition-colors">Projects</Link>
+  <Link to="/contact" className="text-black/60 hover:text-black transition-colors">Contact</Link>
+</div>
 
       
       <div className="border-t border-gray-700 mt-12 pt-6 text-center text-gray-500 text-sm">

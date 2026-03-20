@@ -1,4 +1,4 @@
-import aboutheroimg from "../../assets/jh-LYx9Aw6E.webp"
+
 import ogo from "../../assets/ogo.png"
 
 function AboutHero(){

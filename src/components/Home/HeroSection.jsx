@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import heroimg from "../../assets/hh-DSbe9sGf.webp"
+
 function HeroSection (){
     return(
         <>
