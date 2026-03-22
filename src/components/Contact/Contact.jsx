@@ -50,7 +50,7 @@ function Contact(){
             <textarea type="email" name='message'  className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:ring-2 focus:ring-indigo-500 focus:outline-none"
             placeholder="Write Your Message...." required rows="4"></textarea>
           </div>
-          <button type="submit" className="w-full bg-indigo-600 text-white font-semibold py-3 rounded-lg shadow hover:bg-indigo-700 transition">Send Message</button>
+          <button type="submit" className="w-full bg-indigo-600 text-white font-semibold py-3 rounded-lg shadow hover:bg-indigo-700 transition cursor-pointer">Send Message</button>
         </form>
         </div>
         <section className="bg-white py-20 px-6 lg:px-20 text-center text-white">
