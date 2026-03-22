@@ -32,7 +32,7 @@ function Contact(){
         action="https://formspree.io/f/mgonbgkb"
   method="POST"
         >
-
+               <input type="text" name="_gotcha" style={{ display: "none" }} />
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">Name</label>
             <input type="text" name='name'  className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:ring-2 focus:ring-indigo-500 focus:outline-none"
