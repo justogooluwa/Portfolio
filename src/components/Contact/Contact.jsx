@@ -28,7 +28,11 @@ function Contact(){
              </div>
             </div>
         </div>
-        <form className="bg-white rounded-2xl shadow-lg p-8 space-y-6">
+        <form className="bg-white rounded-2xl shadow-lg p-8 space-y-6"
+        action="https://formspree.io/f/mgonbgkb"
+  method="POST"
+        >
+
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">Name</label>
             <input type="text"  className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:ring-2 focus:ring-indigo-500 focus:outline-none"

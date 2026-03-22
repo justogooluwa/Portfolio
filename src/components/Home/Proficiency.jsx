@@ -35,7 +35,7 @@ function Proficiency(){
                 <span className="text-gray-500">90%</span>
               </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
-                  <div className="h-2.5 rounded-full bg-indigo-500" style={{width: '95%'}}></div>
+                  <div className="h-2.5 rounded-full bg-indigo-500" style={{width: '90%'}}></div>
                 </div>
              </div>
               
@@ -55,7 +55,7 @@ function Proficiency(){
                 <span className="text-gray-500">90%</span>
               </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
-                  <div className="h-2.5 rounded-full bg-indigo-500" style={{width: '95%'}}></div>
+                  <div className="h-2.5 rounded-full bg-indigo-500" style={{width: '90%'}}></div>
                 </div>
              </div>
                
@@ -87,7 +87,7 @@ function Proficiency(){
                 <span className="text-gray-500">90%</span>
               </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
-                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '95%'}}></div>
+                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '90%'}}></div>
                 </div>
              </div>
 
@@ -97,7 +97,7 @@ function Proficiency(){
                 <span className="text-gray-500">85%</span>
               </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
-                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '95%'}}></div>
+                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '85%'}}></div>
                 </div>
              </div>
               
@@ -107,7 +107,7 @@ function Proficiency(){
                 <span className="text-gray-500">80%</span>
               </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
-                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '95%'}}></div>
+                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '80%'}}></div>
                 </div>
              </div>
                  
@@ -117,7 +117,7 @@ function Proficiency(){
                 <span className="text-gray-500">75%</span>
               </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
-                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '95%'}}></div>
+                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '75%'}}></div>
                 </div>
              </div>
                
@@ -128,7 +128,7 @@ function Proficiency(){
                 <span className="text-gray-500">90%</span>
               </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
-                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '95%'}}></div>
+                  <div className="h-2.5 rounded-full bg-emerald-500" style={{width: '90%'}}></div>
                 </div>
              </div>
 
